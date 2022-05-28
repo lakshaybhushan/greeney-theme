@@ -23,7 +23,7 @@
 		"sideBar.background": "#021012",
 		"sideBar.dropBackground": "#042124",
 		"sideBar.border": "#0f1415",
-		"sideBar.foreground": "#c9fcff",
+		"sideBar.foreground": "#d8fff8",
 		"sideBarSectionHeader.background": "#083d44",
 		"sideBarSectionHeader.foreground": "#a5b5b5",
 		"sideBarTitle.foreground": "#a5b5b5",
@@ -324,7 +324,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#cece50" //change it later
+				"foreground": "#63ff85"
 			}
 		},
 		{
@@ -368,7 +368,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#f0ff82"
 			}
 		},
 		{
@@ -403,7 +403,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#6c9df7"
 			}
 		},
 		{
@@ -418,7 +418,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#87feab"
 			}
 		},
 		{
@@ -434,7 +434,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ff6b6b"
 			}
 		},
 		{
