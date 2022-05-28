@@ -2,7 +2,7 @@
 	"name": "Greeney.",
 	"colors": {
 		"editor.background": "#021c23",
-		"editor.foreground": "#ffa34d",
+		"editor.foreground": "#00ffd9",
 		"activityBarBadge.background": "#00a7a1",
 		"selection.background": "#107684",
 		"descriptionForeground": "#929ea0",
@@ -20,14 +20,14 @@
 		"activityBarBadge.foreground": "#0f1415",
 		"activityBar.activeBackground": "#40d4e733",
 		"activityBar.activeBorder": "#00cde8",
-		"sideBar.background": "#021012",
+		"sideBar.background": "#02151b",
 		"sideBar.dropBackground": "#042124",
 		"sideBar.border": "#0f1415",
 		"sideBar.foreground": "#d8fff8",
-		"sideBarSectionHeader.background": "#083d44",
-		"sideBarSectionHeader.foreground": "#a5b5b5",
-		"sideBarTitle.foreground": "#a5b5b5",
-		"sideBarSectionHeader.border": "#0f1415",
+		"sideBarSectionHeader.background": "#002a35",
+		"sideBarSectionHeader.foreground": "#6bffb5",
+		"sideBarTitle.foreground": "#b1b5a5",
+		"sideBarSectionHeader.border": "#15130f",
 		"statusBar.foreground": "#7cf8ff",
 		"statusBar.background": "#006c6a",
 		"statusBar.border": "#273336",
@@ -284,7 +284,7 @@
 			],
 			"settings": {
 				"fontStyle": " ",
-				"foreground": "#18f2d3" 
+				"foreground": "#18f2d1ab" 
 			}
 		},
 		{
@@ -294,7 +294,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ffa34d"
+				"foreground": "#00debd"
 			}
 		},
 		{
@@ -313,7 +313,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff526f"
 			}
 		}, 
 		{
@@ -324,7 +324,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#63ff85"
+				"foreground": "#00ffd9"
 			}
 		},
 		{
@@ -344,7 +344,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ff8989"
+				"foreground": "#00b8c9"
 			}
 		},
 		{
@@ -355,7 +355,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ffa34d"
 			}
 		},
 		{
@@ -368,7 +368,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#f0ff82"
+				"foreground": "#ffa34d"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#71ffea"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#18f2d3"
 			}
 		},
 		{
@@ -403,7 +403,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#6c9df7"
+				"foreground": "#ffbabe"
 			}
 		},
 		{
@@ -418,7 +418,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#87feab"
+				"foreground": "#7989ff"
 			}
 		},
 		{
@@ -434,7 +434,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#ff6b6b"
+				"foreground": "#ff77dd"
 			}
 		},
 		{
@@ -443,7 +443,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#43caff"
 			}
 		},
 		{
