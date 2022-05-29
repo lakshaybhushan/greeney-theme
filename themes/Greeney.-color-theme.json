@@ -43,7 +43,7 @@
 		"statusBarItem.prominentHoverBackground": "#00292e",
 		"button.background": "#00655e",
 		"button.foreground": "#ebfdff",
-		"button.hoverBackground": "#0cc",
+		"button.hoverBackground": "#00cccccc",
 		"dropdown.background": "#031417",
 		"dropdown.border": "#031417",
 		"dropdown.foreground": "#87a7ab",
