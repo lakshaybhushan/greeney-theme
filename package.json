@@ -1,7 +1,7 @@
 {
     "name": "greeney-theme",
     "displayName": "Greeney.",
-    "description": "A colour theme for Visual Studio Code made by Lakshay Bhushan",
+    "description": "A dark greenish-blue colour theme for Visual Studio Code",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.67.0"
