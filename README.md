@@ -4,8 +4,14 @@ A simple yet elegant theme, with the intention of providing you with a comfortab
 
 **Perfect for working late at night or in a dimly lit environment.**
 ## Screenshots
-#### C
-<img src="https://drive.google.com/file/d/1GedLBaFk_mpBuD7qpH2sq89ZL3ZKxsEN/view" alt="C Code">
+### C
+<img src="https://i.imgur.com/CK45G6H.png" alt="C Code">
+
+### Python
+<img src ="https://i.imgur.com/aMKxbv0.png" alt="Python" >
+
+### Markdown
+<img src ="https://i.imgur.com/xWYBdPD.png" alt="Markdown" >
 
 Logo is made using
 
