@@ -21,7 +21,7 @@ Greeney. is a simple yet elegant theme, with the intention of providing you with
 - IBM Plex Mono
 - Monaco
 
-Logo is made using
+**Logo is made using**
 
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva">
 
