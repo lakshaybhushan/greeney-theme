@@ -1,8 +1,10 @@
 # **Greeney.** 
+<img src ="https://i.imgur.com/C6JBool.png" alt = "Banner">
 
 A simple yet elegant theme, with the intention of providing you with a comfortable and distraction-free environment in which to code.
 
 **Perfect for working late at night or in a dimly lit environment.**
+
 ## Screenshots
 ### C
 <img src="https://i.imgur.com/CK45G6H.png" alt="C Code">
@@ -12,6 +14,12 @@ A simple yet elegant theme, with the intention of providing you with a comfortab
 
 ### Markdown
 <img src ="https://i.imgur.com/xWYBdPD.png" alt="Markdown" >
+
+### Recommended fonts to use with theme
+- Cartograph CF   [ font used in screenshots ] 
+- Cascadia Code
+- IBM Plex Mono
+- Monaco
 
 Logo is made using
 
