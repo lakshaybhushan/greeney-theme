@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "greeney-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## v0.0.1 - (16 June 2022)
+ - Initial release
+## v0.1.0 - (16 June 2022)
+ - Added theme icon
+ - changes to readme file
+## V1.0.0 - (16 June 2022)
+- Final Release
