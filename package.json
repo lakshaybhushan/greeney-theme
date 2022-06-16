@@ -12,12 +12,9 @@
     "keywords": [
         "theme",
         "Greeney",
-        "Green",
-        "Lakshay",
-        "LakshayBhushan",
-        "vscode theme",
         "dark",
-        "bhushan"
+        "green",
+        "lakshay"
     ],
     "engines": {
         "vscode": "^1.67.0"
