@@ -6,6 +6,6 @@
 ## v0.1.0 - (16 June 2022)
  - Added theme icon
  - changes to readme file
- 
-## V1.0.0 - (16 June 2022)
+
+## v1.0.0 - (16 June 2022)
 - Final Release
