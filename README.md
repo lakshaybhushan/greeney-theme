@@ -20,13 +20,20 @@ Greeney. is a simple yet elegant theme, with the intention of providing you with
 - Cascadia Code
 - IBM Plex Mono
 - Monaco
-
 **Logo is made using**
 
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva">
 
 **To support me**
 
-<a href="https://www.buymeacoffee.com/lakshaybhushan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 100px !important;" ></a>
+
+<head>
+<script src="https://kit.fontawesome.com/e3bef9ebfa.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+<i class="fa-brands fa-github"></i>
+</body>
+
 
 **Enjoy!**
