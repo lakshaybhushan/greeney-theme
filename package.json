@@ -4,6 +4,7 @@
     "description": "A dark greenish-blue colour theme for Visual Studio Code",
     "version": "0.0.1",
     "publisher": "LakshayBhushan",
+    "icon": "https://imgur.com/AZDcLlj",
     "repository": {
         "type": "git",
         "url": "https://github.com/lakshaybhushan/greeney-theme"
