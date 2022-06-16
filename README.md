@@ -33,7 +33,7 @@ Greeney. is a simple yet elegant theme, with the intention of providing you with
 
 <a href="https://www.buymeacoffee.com/lakshaybhushan"><img alt="BMAC" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
 
-<a href="https://github.com/lakshaybhushan/greeney-theme/blob/main/Images/PayTM.jpeg"><img alt="PayTM" src ="https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3">
+<a href="https://github.com/lakshaybhushan/greeney-theme/blob/main/Images/PayTM.jpg"><img alt="PayTM" src ="https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3">
 
 
 **Enjoy!**
