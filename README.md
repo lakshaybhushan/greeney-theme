@@ -27,6 +27,6 @@ Greeney. is a simple yet elegant theme, with the intention of providing you with
 
 **To support me**
 
-<a href="https://www.buymeacoffee.com/lakshaybhushan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 150px !important;" ></a>
+<a href="https://www.buymeacoffee.com/lakshaybhushan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 100px !important;" ></a>
 
 **Enjoy!**
