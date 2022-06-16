@@ -29,6 +29,8 @@ Greeney. is a simple yet elegant theme, with the intention of providing you with
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva">
 
 **To support me**
-<a href="https://www.buymeacoffee.com/lakshaybhushan"><img alt="Qries" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+
+<a href="https://www.buymeacoffee.com/lakshaybhushan">
+<img alt="Qries" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
 
 **Enjoy!**
