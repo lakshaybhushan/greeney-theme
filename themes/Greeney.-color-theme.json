@@ -2,7 +2,8 @@
 	"name": "Greeney.",
 	"colors": {
 		"editor.background": "#021c23",
-		"editor.foreground": "#00ffd9",
+		//"editor.foreground": "#00ffd9", currently editing 
+		"editor.foreground": "#b9c8c5",
 		"activityBarBadge.background": "#00fff2",
 		"selection.background": "#107684",
 		"descriptionForeground": "#929ea0",
@@ -284,7 +285,7 @@
 			],
 			"settings": {
 				"fontStyle": " ",
-				"foreground": "#18f2d1ab" 
+				"foreground": "#9cff50cb" 
 			}
 		},
 		{
