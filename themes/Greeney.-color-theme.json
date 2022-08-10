@@ -130,7 +130,7 @@
 		"editorIndentGuide.background": "#223b3f",
 		"editorIndentGuide.activeBackground": "#3e6f74",
 		"editorBracketMatch.background": "#169fb122",
-		"editorBracketMatch.border": "#169fb1",
+		"editorBracketMatch.border": "#7fd7e3",
 		"editorRuler.foreground": "#243f42",
 		"editorCodeLens.foreground": "#507b95",
 		"terminal.ansiBlack": "#324a4d",
@@ -285,7 +285,7 @@
 			],
 			"settings": {
 				"fontStyle": " ",
-				"foreground": "#b5e63a" 
+				"foreground": "#ffb9fde0" 
 			}
 		},
 		{
@@ -334,7 +334,6 @@
 			"scope": [
 				"keyword.control",
 				"constant.other.color",
-				"punctuation",
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
@@ -369,7 +368,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ffb977"
+				"foreground": "#ffaa3b"
 			}
 		},
 		{
@@ -921,5 +920,15 @@
 				"foreground": "#fffca5"
 			}
 		},
+		{
+			"name": "Brackets",
+			"scope":[
+				"punctuation",
+			],
+			"settings":{
+				"foreground": "#00ffdd"
+			}
+		}
+		
 	]
 }
