@@ -5,6 +5,10 @@ Greeney. is a simple yet elegant theme, with the intention of providing you with
 
 **Perfect for working late at night or in a dimly lit environment.**
 
+``` javascript
+VERSION - 2.0.0 RELAEASED
+```
+
 ## Screenshots
 ### C
 <img src="https://i.imgur.com/CK45G6H.png" alt="C Code">
