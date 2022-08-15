@@ -25,6 +25,9 @@ VERSION - 2.0.0 RELAEASED
 - IBM Plex Mono
 - Monaco
 
+For best results, make sure bracket pair colorisation is enabled.
+
+
 **Logo is made using**
 
 <a href="https://www.canva.com/"><img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
