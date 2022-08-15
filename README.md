@@ -25,7 +25,7 @@ VERSION - 2.0.0 RELAEASED
 - IBM Plex Mono
 - Monaco
 
-For best results, make sure bracket pair colorisation is enabled.
+For best results, make sure Bracket Pair Colorisation is ```enabled```.
 
 
 **Logo is made using**
