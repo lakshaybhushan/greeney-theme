@@ -9,7 +9,7 @@
 		"widget.shadow": "#00000044",
 		"editorLineNumber.foreground": "#33585c",
 		"editorLineNumber.activeForeground": "#00cde8",
-		"editorCursor.foreground": "#00ffbb",
+		"editorCursor.foreground": "#00eaff",
 		"badge.background": "#00ffae",
 		"badge.foreground": "#0f1215",
 		"activityBar.background": "#02151f",

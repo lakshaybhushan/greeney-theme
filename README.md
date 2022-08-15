@@ -10,7 +10,7 @@ VERSION - 2.0.0 RELAEASED
 ```
 
 ## Screenshots
-### C
+### Python
 <img src="https://i.imgur.com/CK45G6H.png" alt="C Code">
 
 ### Python
