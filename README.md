@@ -1,11 +1,12 @@
-# **Greeney.** 
+# **Greeney.**
 <img src ="https://i.imgur.com/C6JBool.png" alt = "Banner">
 
 Greeney. is a simple yet elegant theme, with the intention of providing you with a comfortable and distraction-free environment in which to code.
 
 **Perfect for working late at night or in a dimly lit environment.**
 
-## Screenshots
+
+## Screenshots (Version 1)
 ### Python
 <img src="https://i.imgur.com/CK45G6H.png" alt="C Code">
 
@@ -16,13 +17,13 @@ Greeney. is a simple yet elegant theme, with the intention of providing you with
 <img src ="https://i.imgur.com/xWYBdPD.png" alt="Markdown" >
 
 ### Recommended fonts to use with theme
-- Cartograph CF   [ font used in screenshots ] 
+
+- Cartograph CF
 - Cascadia Code
 - IBM Plex Mono
-- Monaco
+- Monaco --> [ font used in screenshots ]
 
-For best results, make sure Bracket Pair Colorisation is ```enabled```.
-
+##### For best results, make sure ```Bracket Pair Colorisation``` is <kbd style=color:lightgreen>enabled</kbd>
 
 **Logo is made using**
 

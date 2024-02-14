@@ -2,7 +2,7 @@
     "name": "greeney-theme",
     "displayName": "Greeney.",
     "description": "A dark greenish-blue colour theme for Visual Studio Code",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "publisher": "LakshayBhushan",
     "icon": "Images/Greeney.png",
     "repository": {
@@ -25,9 +25,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Greeney.",
+                "label": "Greeney. (v2.0.0)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Greeney.-color-theme.json"
+                "path": "./themes/Greeney.-v2.json"
+            },
+            {
+                "label": "Greeney. (original)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Greeney.-v1.json"
             }
         ]
     }
